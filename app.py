@@ -236,7 +236,7 @@ page = st.sidebar.radio("📋 Chọn trang hệ thống", ["🍽️ Order", "�
 # ==============================================================================
 
 if page == "🍽️ Order":
-    st.title("🍽️ Hệ thống Order Nhà Hàng_Dr Bình")
+    st.title("🍽️ Hệ thống Order Nhà Hàng_Y Gi Bi Teo")
     st.caption("Ghi nhận order nhanh chóng và lưu dữ liệu trực tiếp lên Aiven MySQL")
 
     if db_connected:
